@@ -1,4 +1,4 @@
-# Yoga Poses > yoga_poses_V1
+# Yoga Poses > yoga_poses_V3
 https://universe.roboflow.com/yoga-pose-dataset/yoga-poses-yiqyx
 
 Provided by a Roboflow user
